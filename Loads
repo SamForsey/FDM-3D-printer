@@ -1,0 +1,10 @@
+Load cases
+
+Force due to acceleration of extruder + crossed XY gantry. 
+
+F=ma
+
+Mass of moving components ~0.5kg
+Acceleration up to 20m/s^2
+
+F= 10N
