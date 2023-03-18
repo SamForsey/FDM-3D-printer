@@ -1,2 +1,28 @@
-How much power does the heating element require to heat the surface plate up to 140C, whilst not taking more than 30minutes.
+How much power does the heating element require to heat the surface plate up to 140C in 30minutes.
 
+All values/equations from https://www.engineeringtoolbox.com/specific-heat-metals-d_152.html
+
+Specific heat capacity Cast Iron	0.46kj/(kgK)
+
+q = cp m dt                                           (1)
+
+where
+
+q = heat required (kJ)
+cp = specific heat (kJ/kg K, kJ/kg C°) = 0.46
+dt = temperature difference (K, C°) = 140C
+m = mass of object = 30kg
+
+
+P = Work / time
+
+P = power (W, ft lb/s)
+W = work done (J, ft lb)
+dt = time taken (s)
+
+q = 0.46x30x140 = 1932kJ  or 1,932,000J
+time taken = 30minutes or 1800s
+
+Power = 1932000/1800 = 1075watts to heat
+
+Assuming 50% energy loss to the environment, a 2200watt heating element is required.
