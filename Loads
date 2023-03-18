@@ -1,10 +1,17 @@
 Load cases
 
-Force due to acceleration of extruder + crossed XY gantry. 
 
+Force due to acceleration of extruder + crossed XY gantry. 
 F=ma
 
 Mass of moving components ~0.5kg
 Acceleration up to 20m/s^2
 
 F= 10N
+
+Vertical load on gantry 
+
+Mass = 0.5kg
+Acceleration due to gravity 10m/s^2
+
+Force = 5N
