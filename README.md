@@ -4,7 +4,7 @@ Based on a cast iron surface plate. 18x18", weight approx 30kg.
 
 The requirements; 
 
-- print the greatest quality and performance engineering materials, such as Polycarbonate, Nylon, ABS.
+- print high quality and performance engineering materials, such as Polycarbonate, Nylon, ABS.
 - print at up to 20m/s^2 acceleration
 - mechanically fixed bed level
 - 0.1mm accuracy
